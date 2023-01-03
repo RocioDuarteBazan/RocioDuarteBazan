@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+i'm+Rochi+😊+💖;I'm+Full+Stack+MERN+Developer;Welcome!+👋)](https://git.io/typing-svg)
-<h3 align="center">Argentina📍 <br/> 25 years old💁🏻‍♀️ <br/> Passionate, responsible and detailed👨‍💻 </h3>
+
+<h3 align="left">Argentina📍 <br/> 25 years old💁🏻‍♀️ <br/> Passionate, responsible and detailed👨‍💻 </h3>
 
 ---
 <h3 align="left">Connect with me:</h3>
