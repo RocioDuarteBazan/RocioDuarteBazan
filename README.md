@@ -19,7 +19,8 @@
 
 ----
 <h3 align="left">My Stats:</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RocioDuarteBazan&theme=dracula)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RocioDuarteBazan&theme=dracula)](https://git.io/streak-stats)]
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
